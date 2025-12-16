@@ -1,23 +1,23 @@
-# Olá, eu sou o Murilo! 👋
+# Olá, eu sou o Murilo Dutra! 👋
 
 ### 🎓 Estudante de ADS @ FATEC | Foco em Back-end Java
 
-Sou um desenvolvedor em formação que une a **lógica de programação** com a **maturidade profissional** adquirida em experiências de atendimento ao cliente. Meu foco é resolver problemas reais usando tecnologia robusta.
+Desenvolvedor em formação que combina **lógica de programação** apurada com **maturidade profissional** em atendimento e vendas. Meu foco é construir APIs robustas e soluções com Inteligência Artificial.
 
-- 🔭 Atualmente trabalhando no: **GymGante** (Sistema de Treinos com IA)
-- 🌱 Estudando: **Arquitetura de Software**, **Spring Security** e **IA Generativa**
+- 🔭 Projeto Principal: **[GymGante](https://github.com/MuriloDutra2/GYMGANTE_Project)** (Java + IA Generativa)
+- 🔄 Em Migração: Refatorando sistemas legados de PHP para **Java Spring Boot**
+- 🌱 Estudando: **Arquitetura de Software**, **Spring Security** e **Engenharia de Prompt**
 - 💼 Busco: Estágio em Desenvolvimento Back-end (Java)
-- 💬 Pergunte-me sobre: **Engenharia de Prompt** e **Java 21**
 
 ---
 
-### 🛠️ Tech Stack & Ferramentas
+### 🛠️ Tech Stack
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -27,18 +27,18 @@ Sou um desenvolvedor em formação que une a **lógica de programação** com a 
 <div align="center">
   <a href="https://github.com/MuriloDutra2">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuriloDutra2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloDutra2&layout=compact&theme=dracula&hide=php,html"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloDutra2&layout=compact&theme=dracula&hide=php,hack,html"/>
   </a>
 </div>
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🚀 Portfólio
 
-| Projeto | Descrição | Techs |
+| Projeto | Categoria | Techs Principais |
 | :--- | :--- | :--- |
-| [**GymGante**](https://github.com/MuriloDutra2/GYMGANTE_Project) | Plataforma de prescrição de treinos usando **IA Generativa**. | Java 21, Spring Boot, Gemini API, Azure SQL |
-| **Em Breve** | Novos projetos focados em microsserviços. | ... |
+| [**GymGante**](https://github.com/MuriloDutra2/GYMGANTE_Project) | ⭐ **Principal** | Java 21, Spring Boot, Gemini AI, Azure SQL |
+| [**C-Street Cinema**](https://github.com/MuriloDutra2/TCC-CURSO) | 🏛️ *Legado (Web)* | PHP, MySQL, JS (Em processo de migração para Java) |
 
 ---
 
