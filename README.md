@@ -27,7 +27,7 @@ Sou um desenvolvedor em formação que une a **lógica de programação** com a 
 <div align="center">
   <a href="https://github.com/MuriloDutra2">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuriloDutra2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloDutra2&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloDutra2&layout=compact&theme=dracula&hide=php,html"/>
   </a>
 </div>
 
