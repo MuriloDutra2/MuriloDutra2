@@ -43,10 +43,10 @@ Desenvolvedor em formação que combina **lógica de programação** apurada com
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/murilo-dutra-abc11122006/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
-  <a href="mailto:murilonunesdesouzadutra@hotmail.com">
-    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+ <a href="mailto:murilonunesdesouzadutra@hotmail.com">
+    <img src="https://img.shields.io/badge/-Email-%230078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank">
   </a>
 </div>
